@@ -571,7 +571,10 @@ input::-ms-input-placeholder {
 .home .main_home .video_play_icon a{
     width:175px;
     height:125px;
+/*
     background: #032F3E;
+*/
+    background:  transparent;
     display: inline-block;
     text-align: center;
     line-height: 140px;
